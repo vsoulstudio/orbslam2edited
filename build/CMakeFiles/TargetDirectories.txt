@@ -1,0 +1,11 @@
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/install/strip.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/install/local.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/install.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/list_install_components.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/rebuild_cache.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/rgbd_tum.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/stereo_kitti.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/stereo_euroc.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/ORB_SLAM2.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/mono_tum.dir
+/home/vsoul/program/ORB_SLAM2/build/CMakeFiles/edit_cache.dir
